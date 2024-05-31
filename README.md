@@ -1,6 +1,6 @@
 # Process Management Application for CICS
 This is a simple application for CICS. It is serving two purposes for me individually: 
-One, it provides a clean simple way for us to save and store information that is easy to modify and add new features..
+One, it provides a clean simple way for us to save and store information that is easy to modify and add new features.
 Two, it was a good way to teach myself CICS. I have been a mainframe developer for quite some time and have always
 wanted to branch into the CICS world. This seemed like a good way to do so and it also not be a useless exorcise.
 
